@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zomato</title>
+    <link rel="icon" href="Zomato_logo.png">
+</head>
+<body>
+    <h1> <pre>                                                 Zomato</pre></h1>
+    
+        <nav>
+            <ul>
+            <li><a href="#">Search</a></li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Add restaurant</a></li>
+            <li><a href="#">Log in</a></li>
+            <li><a href="#">Sign up</a></li>
+
+            </ul>
+        </nav>
+        
+<h2>Popular Restaurants in your area:</h2>
+        
+    <h2>1. Le meridien</h3>
+    <p>The perfect continental restaurant.</p>
+    <img src="rest1.avif" alt="Le meridian">
+    <p>Rating: 4.5</p>
+    <p>Location: Church street, Bengaluru</p>
+    <a href="#">View menu</a>
+
+    <h2>2. The Bengaluru Street Cafe</h2>
+    <p>Join us for the perfect street style cuisines.</p>
+    <img src="rest2.jpg" alt="The Bengaluru Street Cafe">
+    <p>Rating: 4.8</p>
+    <p>Location: Shivajinagar, Bengaluru</p>
+    <a href="#">View menu</a>
+
+    <h2>3. Punjabi Dhaba</h2>
+    <p>Open for Dhaba lovers with pure love.</p>
+    <img src="rest3.webp" alt="Punjabi Dhaba">
+    <p>Rating: 4.0</p>
+    <p>Location: Indiranagar, Bengaluru</p>
+    <a href="#">View menu</a>
+
+    <h2>4. Paragon restaurant</h2>
+    <p>We serve the perfect kerala malabar biriyani.</p>
+    <img src="paragon-kochi.png" alt="Paragon restaurant">
+    <p>Rating: 4.9</p>
+    <p>Location: Church street, Bengaluru</p>
+    <a href="#">View menu</a>
+    <pre>
+
+
+
+
+    </pre>
+
+
+
+    <h2><pre>About Zomato                    About restaurants                    Contact us</pre></h2>
+    <h3><pre><a href="#">Know about us</a>                            <a href="#">Partner with us</a>                                <a href="#">+91 1234567891</a></pre></h3>
+    <h3><pre><a href="#">Work with us</a>                             <a href="#">Become partners</a>                                <a href="#">www.zomato@gmail.com</a></pre></h3>
+    <h3><pre><a href="#">Report Fraud</a>                             <a href="#">Apps for you</a>                                                                       </pre></h3>
+    <pre>
+
+
+    </pre>
+    <p><a href="#"> <img src="both.jpg" alt="playstore"></a></p>
+     <p>By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. <br>2008-2023 © Zomato™ Ltd. All rights reserved.</p>
+
+
+ 
+</body>
+</html>
